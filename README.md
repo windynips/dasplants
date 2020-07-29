@@ -1,7 +1,5 @@
 ok so this is a cool project
-i built if off a project i had created for jerk or a guy,
-I wont name who he is but he wanted a BMS what was already available by the Chinese.
-He bothered me and bothered me and so I create this .
+baised off dabms
 To grow to jalapenos and some cool plants for my friends.
 
 It’s a raspberry pi that’s it connected to an Arduino, yea I know sounds basic,
